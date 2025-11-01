@@ -25,7 +25,7 @@
 ### 第一步：使用Pycharm安装依赖
 
 ```bash
-pip install PyQt5
+pip3 install PyQt5
 ```
 
 ### 第二步：运行程序
